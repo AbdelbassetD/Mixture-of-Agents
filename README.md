@@ -31,7 +31,7 @@ User Input → Research Agent → Statistics Agent → 3 Writer Agents → Edito
 
 ### Option 1: Run in Google Colab (Easiest)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/mlb-recap-generator/blob/main/mlb_recap_generator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KurfXRaXdXcynioTSe2rmR556eEXxkqf?usp=sharing)
 
 1. Click the badge above or go to [Google Colab](https://colab.research.google.com)
 2. Upload the notebook: `File` → `Upload notebook` → Select the `.ipynb` file
